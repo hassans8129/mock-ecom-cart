@@ -94,15 +94,15 @@ mock-ecom-cart/
 
 ### Products Page
 
-![Products Page](./screenshots/products.png)
+![Products Page](./screenshot/products.png)
 
 ### Cart Page
 
-![Cart Page](./screenshots/cart.png)
+![Cart Page](./screenshot/cart.png)
 
 ### Checkout Receipt
 
-![Checkout Page](./screenshots/checkout.png)
+![Checkout Page](./screenshot/checkout.png)
 
 ### Final Notes
 
