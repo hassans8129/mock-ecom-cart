@@ -64,6 +64,7 @@ Backend runs at: http://localhost:3000
 
 ### Folder Structure
 
+```
 mock-ecom-cart/
 │
 ├── backend/
@@ -87,6 +88,7 @@ mock-ecom-cart/
 │ └── checkout.png
 │
 └── README.md
+```
 
 ## Screenshots
 
