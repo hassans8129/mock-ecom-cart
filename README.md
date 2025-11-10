@@ -1,4 +1,4 @@
-# Mock E-Commerce Cart (Full Stack Assignment)
+# Mock E-Commerce Cart (Full Stack Project)
 
 This is a basic full-stack shopping cart application built as per the Vibe Commerce internship assignment.  
 It demonstrates frontend ↔ backend ↔ database flow for e-commerce cart operations.
